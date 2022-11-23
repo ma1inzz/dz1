@@ -1,0 +1,79 @@
+<style >
+body {
+    background:#ff6a00
+}
+#wrapper {
+    width: 1400px;
+    margin: 0 auto;
+    background: #ff6a00;
+}
+#header {
+    position: relative;
+    height: 200px;
+    background-color: #4800ff;
+    background-image: url(gg1.png);
+    margin-bottom: 5px;
+    border-radius: 5px;
+    box-shadow: rgba(0,0,0,0.5) 0px 1px 3px;
+}
+hl {
+    margin: 0 0 10px 40px;
+    color: #ff6a00;
+}
+.nomer {
+    position: absolute;
+    top: 5px;
+    left: 1250px;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+    color: #000000;
+}
+#sidebar {
+    background-color: #ff6a00;
+    width: 500px;
+    padding: 10px;
+    float: right;
+    border-radius: 5px;
+    box-shadow: rgba(0,0,0,0.5) 0px 1px 3px;
+}
+.marcer{
+    float:left;
+    margin: 5px 5px 0 0;
+}
+#content {
+    margin-bottom: 5px;
+    width: 676px;
+    padding: 10px;
+    background: #ff6a00;
+    border-radius: 5px;
+    box-shadow: rgba(0,0,0,0.5) 0px 1px 3px;
+}
+#sidebear1 {
+    width: 1400px;
+    padding: 1400px;
+    margin-bottom: 5px;
+    width: 1200px;
+    background: #ff6a00;
+    border-radius: 5px;
+    box-shadow: rgba(0,0,0,0.5) 0px 1px 3px;
+}
+#footer {
+    height: 80px;
+    background-color: #ff6a00;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    box-shadow: rgba(0,0,0,0.5) 0px 1px 3px;
+}
+.clear{
+    clear: both;
+}
+.fon{
+    float:left;
+    margin:20px 0 0 20px;
+}
+.mail{
+    float:left;
+    margin: 20px 0 0 60px;
+}
+</style>
